@@ -1,5 +1,5 @@
 # Graph-Size-Estimation-with-Random-Walks
-Applied Mathematics
+Applied Mathematics Project at École Polytechnique
 
 Explanation for non-French speakers:
 
